@@ -1,0 +1,6 @@
+[package]
+name = "hack-adventure"
+version = "0.1.0"
+authors = ["pr0ph3t <ryanbrunner007@gmail.com>"]
+
+[dependencies]
